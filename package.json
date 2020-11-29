@@ -4,7 +4,8 @@
   "description": "",
   "main": "out/index.js",
   "dependencies": {
-    "esbuild": "^0.8.16"
+    "esbuild": "^0.8.16",
+    "phaser": "^3.24.1"
   },
   "devDependencies": {
     "estrella": "^1.2.10",
